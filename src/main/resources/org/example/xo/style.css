@@ -1,0 +1,6 @@
+.back {
+    -fx-background-color: #3489e1;
+}
+.back:hover {
+    -fx-text-fill: #ffffff;
+}
